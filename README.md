@@ -17,10 +17,12 @@ I'm a software developer with a focus on building robust web applications and de
 #### Frameworks and Libraries
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Prisma](https://img.shields.io/badge/Prisma-3FB883?style=for-the-badge&logo=prisma&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%2376d04b.svg?style=for-the-badge&logo=nodemon&logoColor=white) 
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) 
+![Joi](https://img.shields.io/badge/Joi-white?style=for-the-badge&logo=joi&logoColor=blue)
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -36,4 +38,3 @@ I'm a software developer with a focus on building robust web applications and de
 - Contributions, issues, and feature requests are most welcome!
 - If you like my projects, give them a star and share them with friends!
 - Reach me at: **yiranubari4@gmail.com**
-
