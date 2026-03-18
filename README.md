@@ -1,4 +1,4 @@
-# Hey there
+# Yiranubari Maamaa
 
 I'm a software developer with a focus on building robust web applications and developer tools. I specialize in full-stack development using Node.js, PHP, and modern frontend technologies. I enjoy solving complex problems and creating efficient, scalable code.
 
