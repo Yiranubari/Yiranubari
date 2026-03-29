@@ -20,6 +20,7 @@ I'm a software developer with a focus on building robust web applications and de
 ![Prisma](https://img.shields.io/badge/Prisma-3FB883?style=for-the-badge&logo=prisma&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%2376d04b.svg?style=for-the-badge&logo=nodemon&logoColor=white) 
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) 
 ![Joi](https://img.shields.io/badge/Joi-white?style=for-the-badge&logo=joi&logoColor=blue)
