@@ -38,6 +38,10 @@ I'm a software developer with a focus on building robust web applications and de
 #### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+### GitHub Trophies
+[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Yiranubari&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 ---
 
 ### Support
