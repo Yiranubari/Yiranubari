@@ -4,11 +4,6 @@ I'm a software developer with a focus on building robust web applications and de
 
 ---
 
-### GitHub Trophies
-[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Yiranubari&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### Tools
 
 #### Programming and Markup Languages
