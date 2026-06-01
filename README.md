@@ -1,6 +1,11 @@
 # Yiranubari Maamaa
 
-I'm a software developer with a focus on building robust web applications and developer tools. I specialize in full-stack development using Node.js, PHP, Python, and modern frontend technologies. I enjoy solving complex problems and creating efficient, scalable code.
+I'm a software developer with a focus on building robust web applications and developer tools. I specialize in full-stack development using Node.js, PHP, Python, Rust, and modern frontend technologies. I enjoy solving complex problems and creating efficient, scalable code.
+
+---
+
+### GitHub Trophies
+[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Yiranubari&theme=dark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -10,9 +15,10 @@ I'm a software developer with a focus on building robust web applications and de
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23E05D44.svg?style=for-the-badge&logo=rust&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### Frameworks and Libraries
@@ -38,13 +44,16 @@ I'm a software developer with a focus on building robust web applications and de
 #### DevOps
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### GitHub Trophies
-[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=Yiranubari&theme=dark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+#### Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
 ---
 
 ### Support
 - Contributions, issues, and feature requests are most welcome!
 - If you like my projects, give them a star and share them with friends!
 - Reach me at: **yiranubari4@gmail.com**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Yiranubari&color=blue&style=flat-square)
