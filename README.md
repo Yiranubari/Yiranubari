@@ -27,6 +27,13 @@ I'm a software developer with a focus on building robust web applications and de
   </a>
 </p>
 
+#### Design
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
+
 ---
 
 ### Support
